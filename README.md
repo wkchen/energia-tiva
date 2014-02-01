@@ -1,7 +1,8 @@
 energia-tiva
 ============
 
-Some test programs for the Tiva C Launchpad using the Energia IDE
+Some test programs for the Tiva C Launchpad using the Energia IDE.  The language 
+is the same as Arduino, so they should work mostly unmodified on Arduino platforms.
 
 LED Test Program
 ----------------
