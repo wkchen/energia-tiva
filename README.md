@@ -19,11 +19,11 @@ Serial Lib + LEDs
   the serial port, and perform actions based on them.  There following sample
   commands are implemented:
   
-  "red" - turn on just red LED
-  "green" - turn on just green LED
-  "blue" - turn on just blue LED
-  "white" - turn on all LEDs
-  "off" - turn off all LEDs
+    "red" - turn on just red LED
+    "green" - turn on just green LED
+    "blue" - turn on just blue LED
+    "white" - turn on all LEDs
+    "off" - turn off all LEDs
   
   To issue the command, after loading the program, open the Serial Monitor from
   Energia.  Choose "Newline" instead of "No line ending" and then send commands.
